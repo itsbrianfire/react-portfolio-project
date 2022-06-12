@@ -18,11 +18,10 @@ To install and run, open the code in VS Code.
 
 Run the terminal and `npm i` to install packages. Type `npm start` to run the app and in open in `localhost:3000`. 
 
-- **[GitHub Deployment](https://itsbrianfire.github.io/react-portfolio-project)**
-
+- **[GitHub Deployment](https://itsbrianfire.github.io/react-portfolio-project/)**
 
 # Usage
-Upon using this app, your use the navigation tabs to toggle between pages: Resume, About, Portfolio and Contact. Run the react project and navigate the site **[here](https://itsbrianfire.github.io/react-portfolio-project)**.
+Upon using this app, your use the navigation tabs to toggle between pages: Resume, About, Portfolio and Contact. Run the react project and navigate the site **[here](https://itsbrianfire.github.io/react-portfolio-project/)**.
 
 
 # License
