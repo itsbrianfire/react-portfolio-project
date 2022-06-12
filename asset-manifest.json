@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.2c3082af.css",
-    "main.js": "/react-gh-pages/static/js/main.540892c1.js",
-    "static/media/READMEgenerator.png": "/react-gh-pages/static/media/READMEgenerator.8bddf26cc9b97a33014e.png",
-    "static/media/CodingQuiz.png": "/react-gh-pages/static/media/CodingQuiz.4f3a9c8b9e68ee367658.png",
-    "static/media/EmployeeTracker.png": "/react-gh-pages/static/media/EmployeeTracker.320a4f43d442c3a74637.png",
-    "static/media/SocialNetworkAPI.png": "/react-gh-pages/static/media/SocialNetworkAPI.93b5c418db9ff63c952d.png",
-    "static/media/ORM-eCommerce.png": "/react-gh-pages/static/media/ORM-eCommerce.8db2542bc25e0e06aaa2.png",
-    "static/media/PWATextEditor.png": "/react-gh-pages/static/media/PWATextEditor.4e87ca3bf28db3754ea8.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.2c3082af.css.map": "/react-gh-pages/static/css/main.2c3082af.css.map",
-    "main.540892c1.js.map": "/react-gh-pages/static/js/main.540892c1.js.map"
+    "main.css": "/react-portfolio-project/static/css/main.2c3082af.css",
+    "main.js": "/react-portfolio-project/static/js/main.b86ce768.js",
+    "static/media/READMEgenerator.png": "/react-portfolio-project/static/media/READMEgenerator.8bddf26cc9b97a33014e.png",
+    "static/media/CodingQuiz.png": "/react-portfolio-project/static/media/CodingQuiz.4f3a9c8b9e68ee367658.png",
+    "static/media/EmployeeTracker.png": "/react-portfolio-project/static/media/EmployeeTracker.320a4f43d442c3a74637.png",
+    "static/media/SocialNetworkAPI.png": "/react-portfolio-project/static/media/SocialNetworkAPI.93b5c418db9ff63c952d.png",
+    "static/media/ORM-eCommerce.png": "/react-portfolio-project/static/media/ORM-eCommerce.8db2542bc25e0e06aaa2.png",
+    "static/media/PWATextEditor.png": "/react-portfolio-project/static/media/PWATextEditor.4e87ca3bf28db3754ea8.png",
+    "index.html": "/react-portfolio-project/index.html",
+    "main.2c3082af.css.map": "/react-portfolio-project/static/css/main.2c3082af.css.map",
+    "main.b86ce768.js.map": "/react-portfolio-project/static/js/main.b86ce768.js.map"
   },
   "entrypoints": [
     "static/css/main.2c3082af.css",
-    "static/js/main.540892c1.js"
+    "static/js/main.b86ce768.js"
   ]
 }
