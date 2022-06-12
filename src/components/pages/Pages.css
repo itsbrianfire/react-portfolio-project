@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color: #457b9d;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+p {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-footer {
+    text-align: center;
+}

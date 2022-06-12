@@ -1,0 +1,16 @@
+.header {
+  background: #f1faee;
+  height: 200px;
+}
+
+.header h1 {
+  margin: 0;
+  padding-top: 45px;
+  text-align: -webkit-center;
+  color: #e63946;
+  font-size: 3rem;
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-style: italic;
+}
+

@@ -1,0 +1,27 @@
+.footer {
+  display: block;
+  bottom: 0;
+  width: 100%;
+  /* height: 4rem; */
+  background: #f1faee;
+  color: #1d3557;
+  justify-content: center;
+}
+
+.footer-wrap {
+  padding-top: 1%;
+  padding-bottom: 1%;
+  justify-content: center;
+}
+
+.footer p {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+
+.textbox {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  /* justify-content: center; */
+}
